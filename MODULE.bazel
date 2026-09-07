@@ -1,0 +1,5 @@
+module(
+    name = "bcr_poc_unstable_src",
+    version = "1.0.0",
+    compatibility_level = 1,
+)
