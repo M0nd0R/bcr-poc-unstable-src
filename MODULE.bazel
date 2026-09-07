@@ -1,5 +1,5 @@
 module(
-    name = "bcr_poc_unstable_src",
+    name = "oss_vrp_poc_unstable",
     version = "1.0.0",
     compatibility_level = 1,
 )
